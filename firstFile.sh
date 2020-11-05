@@ -10,3 +10,7 @@ echo "Subtraction"
 
 ((sub=x-y))
 echo $sub
+
+echo "Multiplication"
+((mul=x*y))
+echo $mul
