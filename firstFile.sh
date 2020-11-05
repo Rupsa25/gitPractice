@@ -14,3 +14,8 @@ echo $sub
 echo "Multiplication"
 ((mul=x*y))
 echo $mul
+
+echo "Division"
+
+((div=x/y))
+echo $div
